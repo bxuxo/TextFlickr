@@ -1,0 +1,32 @@
+* {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+
+    outline: 0;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+[hidden] {
+    display: none;
+}
